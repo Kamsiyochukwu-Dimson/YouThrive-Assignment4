@@ -1,0 +1,21 @@
+main{
+    margin: 2.5rem;
+}
+main h1{
+    font-size: 7rem;
+    text-align: center;
+}
+main img{
+    height: 16rem;
+    width: 23rem;
+    margin: 2rem 0rem;
+
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 5vh;
+    text-align: center;
+    padding: 2rem;
+}
+

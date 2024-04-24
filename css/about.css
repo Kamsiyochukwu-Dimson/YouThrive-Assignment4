@@ -1,0 +1,18 @@
+main{
+    padding: 2.5rem;
+}
+main h1{
+    font-size: 5rem;
+    text-align: center;
+}
+main p{
+    padding: 2rem 0rem;
+    font-size: 2rem;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 5vh;
+    text-align: center;
+    padding: 2rem;
+}
