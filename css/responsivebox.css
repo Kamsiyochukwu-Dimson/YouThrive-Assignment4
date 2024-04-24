@@ -11,3 +11,8 @@
         width: 26rem;
     }
 }
+@media screen and (max-width: 1335px) {
+    main img{
+        width: 25rem;
+    }
+}
